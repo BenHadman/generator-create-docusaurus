@@ -5,6 +5,15 @@
     "previous": "Previous",
     "tagline": "Manuals, Guides and Technical Support",
     "docs": {
+      "Additional Information": {
+        "title": "Additional Information"
+      },
+      "Advanced programs": {
+        "title": "Advanced programs"
+      },
+      "Disposal and Recycling": {
+        "title": "Disposal and Recycling"
+      },
       "documentation-intro": {
         "title": "About generator-create-docusaurus",
         "sidebar_label": "About Docs"
@@ -15,24 +24,47 @@
       "feature-2": {
         "title": "Getting Started"
       },
+      "Getting Started": {
+        "title": "Getting Started"
+      },
       "getting-started": {
         "title": "Getting Started"
       },
+      "Maintenance": {
+        "title": "Maintenance"
+      },
+      "Manual": {
+        "title": "isoCell Manual",
+        "sidebar_label": "Manual"
+      },
+      "Safety Instructions": {
+        "title": "Safety Instructions",
+        "sidebar_label": "Safety Instructions"
+      },
+      "Technical Support": {
+        "title": "Technical Support"
+      },
       "troubleshooting": {
-        "title": "Troubleshooting",
-        "sidebar_label": "Troubleshooting"
+        "title": "troubleshooting"
+      },
+      "Workflow": {
+        "title": "Workflow"
       }
     },
     "links": {
-      "Docs": "Docs",
-      "GitHub": "GitHub"
+      "Documentation": "Documentation",
+      "Guides": "Guides"
     },
     "categories": {
-      "Welcome": "Welcome",
+      "Safety Instructions": "Safety Instructions",
+      "Disposal and Recycling": "Disposal and Recycling",
       "Getting Started": "Getting Started",
-      "Feature 1": "Feature 1",
-      "Feature 2": "Feature 2",
-      "Support": "Support"
+      "Workflow": "Workflow",
+      "Advanced Programs": "Advanced Programs",
+      "Maintenance": "Maintenance",
+      "Troubleshooting": "Troubleshooting",
+      "Technical Support": "Technical Support",
+      "Additional Information": "Additional Information"
     }
   },
   "pages-strings": {
