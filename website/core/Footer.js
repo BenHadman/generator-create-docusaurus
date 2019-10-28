@@ -38,34 +38,11 @@ class Footer extends React.Component {
           
           
       
-          <div>
-            <h5>More</h5>
-            <a href="https://www.github.com/BenHadman/generator-create-docusaurus">GitHub</a>
-            <a
-              className="github-button"
-              href={this.props.config.repoUrl}
-              data-icon="octicon-star"
-              data-count-href="/BenHadman/generator-create-docusaurus/stargazers"
-              data-show-count="true"
-              data-count-aria-label="# stargazers on GitHub"
-              aria-label="Star this project on GitHub"
-            >
-              Star
-            </a>
-          </div>
-        </section>
+         
+       </section>
 
         <section className="generated-details">
-          <p>
-            Generated with{" "}
-            <a className="highlight" href="https://github.com/boyney123/generator-create-docusaurus" target="_blank" rel="noreferrer noopener">
-              generator-create-docusaurus
-            </a>{" "}
-            built by{" "}
-            <a className="highlight" href="https://twitter.com/boyney123" target="_blank" rel="noreferrer noopener">
-              boyney123
-            </a>
-          </p>
+          
         </section>
         <section className="copyright">{this.props.config.copyright}</section>
       </footer>

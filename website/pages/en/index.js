@@ -95,22 +95,22 @@ const Features = props => (
   <Block layout="threeColumn" {...props}>
     {[
       {
-        title: "Feature 1",
+        title: "Manual",
         content:
           "Proin cursus mi quis ante consequat auctor. Vivamus ultricies elit at magna dapibus, id eleifend arcu pretium. Vivamus ullamcorper sapien pellentesque eros auctor, ac tincidunt metus imperdiet."
       },
       {
-        title: "Feature 2",
+        title: "Guides",
         content: "Donec id mi augue. Nulla a risus vel ipsum sagittis laoreet. Maecenas ex urna, auctor nec semper vitae, euismod et arcu."
       },
       {
-        title: "Feature 3",
+        title: "Support",
         content: "In ante risus, tempus at condimentum eget, placerat et nisl. Fusce quis massa vitae erat luctus hendrerit. Quisque tempus tellus interdum purus mollis."
       }
     ]}
   </Block>
 );
-
+{/*
 const GetStarted = props => (
   <Block layout="twoColumn" background="light" {...props}>
     {[
@@ -151,7 +151,7 @@ npx my-new-tool again
     ]}
   </Block>
 );
-
+*/}
 class Index extends React.Component {
   render() {
     const language = this.props.language || "";
@@ -161,8 +161,8 @@ class Index extends React.Component {
         <HomeSplash language={language} />
         <div className="mainContainer">
           <Features align="left" />
-          <GetStarted align="left" />
-          <Update align="left" />
+          {/*<GetStarted align="left" />
+          <Update align="left" />*/}
         </div>
       </div>
     );
