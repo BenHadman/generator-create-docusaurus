@@ -1,6 +1,6 @@
 
 ---
-id: Disposal
+id: disposal
 title: Disposal
 sidebar_label: Disposal
 ---

@@ -1,5 +1,5 @@
 ---
-id: Maintainence
+id: maintainence
 title: Maintainence
 sidebar_label: Maintainence
 ---

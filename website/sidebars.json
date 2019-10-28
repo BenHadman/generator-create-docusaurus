@@ -1,13 +1,29 @@
+
 {
   "docs": {
-    "Safety Instructions": ["Safety Instructions"],
-    "Disposal and Recycling":["Disposal"],
-    "Getting Started": ["Getting Started"],
-    "Workflow": ["Workflow"],
-    "Advanced Programs": ["Advanced Programs"],
-    "Maintenance": ["Maintenance"],
-    "Troubleshooting": ["Troubleshooting"],
-    "Technical Support": ["Technical Support"],
-    "Additional Information": ["Additional Information"]
+    "isoCell": [
+      "examples",
+      {
+        "type": "subcategory",
+        "label": "Setup",
+        "ids": [
+          "getting-started",
+          "workflow",
+          "advanced-programs",
+          "maintenance",
+          "troubleshooting"
+        ]
+      },
+      {
+        "type": "subcategory",
+        "label": "Support",
+        "ids": [
+          "safety-instructions",
+          "disposal",
+          "additional-information",
+          "technical-support"
+        ]
+      }
+    ]
   }
 }

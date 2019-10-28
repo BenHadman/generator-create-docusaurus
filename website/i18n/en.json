@@ -56,15 +56,7 @@
       "Guides": "Guides"
     },
     "categories": {
-      "Safety Instructions": "Safety Instructions",
-      "Disposal and Recycling": "Disposal and Recycling",
-      "Getting Started": "Getting Started",
-      "Workflow": "Workflow",
-      "Advanced Programs": "Advanced Programs",
-      "Maintenance": "Maintenance",
-      "Troubleshooting": "Troubleshooting",
-      "Technical Support": "Technical Support",
-      "Additional Information": "Additional Information"
+      "My Example Category": "My Example Category"
     }
   },
   "pages-strings": {
